@@ -24,7 +24,43 @@
     ],
     "paths": {
       "@/*": [
-        "./*"
+        "./*",
+      ],
+      "@components/*": [
+        "./components/*"
+      ],
+      "@lib/*": [
+        "./lib/*"
+      ],
+      "@styles/*": [
+        "./styles/*"
+      ],
+      "@public/*": [
+        "./public/*"
+      ],
+      "@app/*": [
+        "./app/*"
+      ],
+      "@pages/*": [
+        "./pages/*"
+      ],
+      "@hooks/*": [
+        "./hooks/*"
+      ],
+      "@providers/*": [
+        "./providers/*"
+      ],
+      "@utils/*": [
+        "./utils/*"
+      ],
+      "@middleware/*": [
+        "./middleware/*"
+      ],
+      "@api/*": [
+        "./api/*"
+      ],
+      "@views/*": [
+        "./views/*"
       ]
     }
   },
